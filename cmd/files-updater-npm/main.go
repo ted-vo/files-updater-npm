@@ -1,9 +1,9 @@
 package main
 
 import (
-	npmUpdater "github.com/go-semantic-release/files-updater-npm/pkg/updater"
-	"github.com/go-semantic-release/semantic-release/v2/pkg/plugin"
-	"github.com/go-semantic-release/semantic-release/v2/pkg/updater"
+	npmUpdater "github.com/ted-vo/files-updater-npm/pkg/updater"
+	"github.com/ted-vo/semantic-release/v3/pkg/plugin"
+	"github.com/ted-vo/semantic-release/v3/pkg/updater"
 )
 
 func main() {
